@@ -1,0 +1,4 @@
+"devicetype","total_customers","churned_count","churn_rate_percentage","avg_support_tickets"
+"Mobile",4,3,75.00,6.25
+"Desktop",4,2,50.00,5.75
+"Tablet",2,0,0.00,3.50
